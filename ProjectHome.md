@@ -1,0 +1,1 @@
+This Project creates libraries for calculations for the Bengali calendar (http://en.wikipedia.org/wiki/Bengali_calendar )
